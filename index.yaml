@@ -3,12 +3,12 @@ entries:
   my-nginx-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-01T23:26:47.963293657+03:00"
+    created: "2026-06-01T23:38:41.844867983+03:00"
     description: A Helm chart for Kubernetes
-    digest: b785897eab2b5aa4e59cf393ed33f8803939ca651c269a0398a2169646ba9481
+    digest: f8d84475a74ae6acdce718cd6443b5ec70acc86bd330f670314144dfb92d75f8
     name: my-nginx-app
     type: application
     urls:
     - https://ahmedbakry024.github.io/my-helm-charts/my-nginx-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-01T23:26:47.96265728+03:00"
+generated: "2026-06-01T23:38:41.844083977+03:00"
